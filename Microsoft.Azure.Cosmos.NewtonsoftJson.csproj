@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Company />
+    <Authors>Layomi Akinrinade</Authors>
+    <PackageId>MicrosoftAzureCosmos.NewtonsoftJson</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

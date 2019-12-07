@@ -1,9 +1,10 @@
 ﻿using System.IO;
 using System.Text;
+using Microsoft.Azure.Cosmos;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Microsoft.Azure.Cosmos.NewtonsoftJson
+namespace MicrosoftAzureCosmos.NewtonsoftJson
 {
     /// <summary>
     /// The default Cosmos JSON.NET serializer.
